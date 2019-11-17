@@ -1,7 +1,7 @@
 import React from 'react';
 import './css/tailwind.css';
 
-function App() {
+const App = () => {
   return (
     <div className="App text-center">
       <header className="App-header">
@@ -29,6 +29,6 @@ function App() {
       </header>
     </div>
   );
-}
+};
 
 export default App;
