@@ -12,7 +12,10 @@
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
     "import/no-extraneous-dependencies": 0,
-    "global-require": 0
+    "global-require": 0,
+    "import/prefer-default-export": 0,
+    "react/jsx-one-expression-per-line": 0,
+    "radix": 0
   },
   "plugins": ["prettier", "react-hooks"],
   "settings": {
