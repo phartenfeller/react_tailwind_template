@@ -15,7 +15,8 @@
     "start:css": "postcss src/css/tailwind.src.css -o src/css/tailwind.css -w",
     "build:css": "postcss src/css/tailwind.src.css -o src/css/tailwind.css --env production",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "lint": "eslint src"
   },
   "eslintConfig": {
     "extends": "react-app"
