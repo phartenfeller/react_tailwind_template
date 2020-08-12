@@ -2,7 +2,7 @@ name: Upgrade NPM Dependencies
 
 on:
   schedule:
-  - cron: 0 8 * * 2
+  - cron: 0 9 * * 3
 
 jobs:
   package-update:
