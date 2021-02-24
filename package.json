@@ -5,7 +5,7 @@
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-scripts": "4.0.2"
+    "react-scripts": "4.0.3"
   },
   "scripts": {
     "start": "npm-run-all -p start:css start:js",
@@ -34,11 +34,11 @@
     ]
   },
   "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^4.0.0",
+    "@fullhuman/postcss-purgecss": "^4.0.2",
     "autoprefixer": "^10.2.4",
     "eslint": "^7.20.0",
     "eslint-config-airbnb": "^18.2.1",
-    "eslint-config-prettier": "^7.2.0",
+    "eslint-config-prettier": "^8.0.0",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-prettier": "^3.3.1",
