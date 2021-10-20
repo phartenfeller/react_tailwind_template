@@ -36,7 +36,7 @@
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^4.0.3",
     "autoprefixer": "^10.3.7",
-    "eslint": "^8.0.0",
+    "eslint": "^8.0.1",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-import": "^2.25.2",
@@ -48,6 +48,6 @@
     "postcss": "^8.3.9",
     "postcss-cli": "^9.0.1",
     "prettier": "^2.4.1",
-    "tailwindcss": "^2.2.16"
+    "tailwindcss": "^2.2.17"
   }
 }
